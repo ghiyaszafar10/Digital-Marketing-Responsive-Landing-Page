@@ -15,6 +15,10 @@ This project is a responsive landing page designed to promote and sell digital m
 - **`css/`**: This folder includes all the CSS files used to style the landing page.
   - `style.css`: Main custom styles for the page.
   - `bootstrap.min.css`: Bootstrap framework used for the layout and components.
+ 
+## Screenshot
+
+![Landing Page Preview](images/landing-page-preview.png)
 
 ## Technologies Used
 
